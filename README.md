@@ -31,3 +31,22 @@ Extras in a readme are:
   <li>What the intended use is</li>
   <li>Credits if other sources are used</li>
 </ul>
+
+## Branches
+<ul>
+  <li>Enable concurrent work on different parts of a project</li>
+  <li>Help reduce the risk of conflicting file verions</li>
+  <li>Makes sense if multiple people want to work on different tasks at the same time</li>
+</ul>
+
+Branch protection rules 
+<ul>
+  <li>Rules for specific branches</li>
+  <ul>
+    <li>Require a pull request before merging</li>
+    <li>This adds a layer of protection against bringing incorrect code into the main branch</li>
+    <li>Requie that pull request are approved before merging</li>
+    <li>Restrict who can delete a protected branch</li>
+  </ul>
+  <li>To edit the settings, go to settings and there in the "Code and automation" section choose Branches</li>
+</ul>
