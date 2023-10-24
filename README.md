@@ -59,3 +59,20 @@ We can use Git in the terminal to interact with GitHub
   <li>However, we actually need to provide a personal access token PAT</li>
   <li>PATs are required since August 2021 when we want to access a remote repo using the terminal</li>
 </ul>
+
+## Using other repos 
+Cloning 
+<ul>
+  <li>Similar to copy-paste, however cloning creates a link to the original repo</li>
+  <li>Creates a copy on a local comnputer</li>
+  <li>Allows updates to go back and forth using Git</li>
+</ul>
+Forking
+<ul>
+  <li>We can copy without linking to the original repo </li>
+  <li>Forking creates an independet copy: We can experiment without risk</li>
+  <li>Anyone can fork a public repo</li>
+  <li>Subit changes with a pull request</li>
+</ul>
+Cloning creates a linked copy on a local computer, forking creates an independet copy on GitHub.
+Cloning works using Git while forking can all be done within GitHub. 
