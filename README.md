@@ -50,3 +50,12 @@ Branch protection rules
   </ul>
   <li>To edit the settings, go to settings and there in the "Code and automation" section choose Branches</li>
 </ul>
+
+## Authentication
+We can use Git in the terminal to interact with GitHub
+<ul>
+  <li>git clone followed by the url </li>
+  <li>git will then ask for a username and password</li>
+  <li>However, we actually need to provide a personal access token PAT</li>
+  <li>PATs are required since August 2021 when we want to access a remote repo using the terminal</li>
+</ul>
