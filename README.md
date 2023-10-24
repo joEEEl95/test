@@ -76,3 +76,11 @@ Forking
 </ul>
 Cloning creates a linked copy on a local computer, forking creates an independet copy on GitHub.
 Cloning works using Git while forking can all be done within GitHub. 
+Issues 
+<ul>
+  <li><Messages to help track problems fixes, plans, task and other project communication </li>
+    <li>Issues use markdowns</li>
+    <li>We need to assigne or tag someone to make them aware of the issue</li>
+</ul>
+
+
