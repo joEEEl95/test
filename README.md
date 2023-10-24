@@ -81,7 +81,8 @@ Issues
   <li><Messages to help track problems fixes, plans, task and other project communication </li>
     <li>Issues use markdowns</li>
     <li>We need to assigne or tag someone to make them aware of the issue</li>
-    <li>You can respond to issues in the form of comments to keep the conversation going and ask or answer any questions from your team. Use # symbol</li>
+    <li>Use # symbol to link to another issue </li>
+    <li>You can respond to issues in the form of comments to keep the conversation going and ask or answer any questions from your team. Use > symbol</li>
 </ul>
 
 
