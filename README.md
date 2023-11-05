@@ -85,4 +85,19 @@ Issues
     <li>You can respond to issues in the form of comments to keep the conversation going and ask or answer any questions from your team. Use > symbol</li>
 </ul>
 
+# Pull Requests 
+What is a PR?
+<ul>
+  <li>A way to notify others about changes</li>
+  <li>Allows the repo owner to check changes before they are added</li>
+  <li>Best practice to add changes to a branch that is not the main branch. This ensures that main only contains finished work</li>
+  <li>A successful PR is merging two branches</li>
+</ul>
+How to create a PR:
+<ul>
+  <li>In the forked repo go to the Pull request section and click on New pull request</li>
+  <li>Base branch: the branch we want to add our updates to</li>
+  <li>Comapre brancch: contains our changes</li>
+</ul>
+
 
