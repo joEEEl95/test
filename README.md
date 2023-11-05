@@ -99,7 +99,7 @@ How to create a PR:
   <li>Base branch: the branch we want to add our updates to</li>
   <li>Comapre branch: contains our changes</li>
 </ul>
-## Reviewing pull requests
+Reviewing pull requests
 The assignee apporves the PR. The Reviewer looks at the changes before the PR is merged.
 <ul>
   <li>In the Pull request section click on Files Changed</li>
@@ -113,6 +113,7 @@ The assignee apporves the PR. The Reviewer looks at the changes before the PR is
       <li>Comment and approve</li>
       <li>Comment and request changes: For feedback that needs to be incorporated</li>
     </ul>
+  <li>Once a branch has been merged it is good practice to delete that branch. Note: we have the option to restore a branch once it has been deleted</li>
 </ul>
 
 
