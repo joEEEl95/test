@@ -97,7 +97,22 @@ How to create a PR:
 <ul>
   <li>In the forked repo go to the Pull request section and click on New pull request</li>
   <li>Base branch: the branch we want to add our updates to</li>
-  <li>Comapre brancch: contains our changes</li>
+  <li>Comapre branch: contains our changes</li>
+</ul>
+## Reviewing pull requests
+The assignee apporves the PR. The Reviewer looks at the changes before the PR is merged.
+<ul>
+  <li>In the Pull request section click on Files Changed</li>
+  <li>Red indicates removal</li>
+  <li>Green indicates an addition</li>
+  <li>Click on Review changes</li>
+  <li>We can add comments or questions by clicking on the plus icon.</li>
+  <li>We can:</li>
+    <ul>
+      <li>Comment only: For feedback or suggestions that do not require a change.</li>
+      <li>Comment and approve</li>
+      <li>Comment and request changes: For feedback that needs to be incorporated</li>
+    </ul>
 </ul>
 
 
